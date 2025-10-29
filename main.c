@@ -704,5 +704,5 @@ void createSalesReport(Product inventory[], int inventory_size) {
     }
 
     printf(GREEN_TEXT "-----------------------------------------------------------\n" RESET_TEXT);
+    printf("Hello world");
 }
-
